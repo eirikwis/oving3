@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/images/background.gif" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/CPU.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Constants.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Event.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/EventQueue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Gui.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/IO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Memory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/PicturePanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Process.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Queue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Resource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/SimulationGui.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Simulator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Statistics.java" charset="UTF-8" />
+  </component>
+</project>
